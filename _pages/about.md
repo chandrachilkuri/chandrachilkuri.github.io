@@ -10,8 +10,6 @@ redirect_from:
 
 [Warner Bros. Discovery (WBD) Advertising] (https://www.wbd.com/warner-bros-discovery-showcases-impressive-slate-advertising-solutions-content-offerings-and) offers innovative, data-driven solutions across premium entertainment, sports, news, and lifestyle brands, empowering partners to reach audiences at scale through advanced ad products and measurement tools. With iconic IP and cutting-edge platforms like Max, WBD drives measurable results and cultural impact for advertisers worldwide. I am a seasoned Data Engineer with extensive experience in building scalable data systems, while leveraging AI/ML techniques to drive impactful business outcomes and optimize data-driven solutions.
 
-<iframe style="padding-bottom: 1em;" src="https://www.youtube.com/embed/15sa6OeIWJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 **Bio:** Driven by a passion for data-driven insights and scalable solutions, I bring a diverse background in both academic research and industry applications to the field of AI/ML/NLP. My foundation in data science was cultivated through Master's programs at Indiana University and the University of Cumberlands, where I focused on advanced data science methodologies, including predictive analytics, distributed computing, statistical modeling, and neural networks. This academic rigor was complemented by hands-on research experience, including developing a full-body interaction system, optimizing healthcare data flows, and contributing to open-source projects, demonstrating my ability to tackle complex problems with innovative solutions.
 
